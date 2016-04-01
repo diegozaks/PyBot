@@ -19,3 +19,5 @@ A small text matching and response bot, with triggers and responses stored in a 
 * [dev4slack.xoxco.com](https://dev4slack.xoxco.com), XOXCO's Slackbot Developer Slack
 * [The Jack Principles](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) - Thoughts on creating conversational interfaces
 * [When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/) on messaging as a platform
+
+JUST A TEST
